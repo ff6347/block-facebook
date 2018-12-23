@@ -1,0 +1,26 @@
+{
+  "name": "block-facebook",
+  "version": "1.0.0",
+  "description": "Little Snitch Block Facebook Rule Set =====================================",
+  "main": "index.js",
+  "scripts": {
+    "build":"node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianmoronzirfas/block-facebook.git"
+  },
+  "keywords": [],
+  "author": "Fabian Morón Zirfas <fabianmoronzirfas@protonmail.ch> (http://fabianmoronzirfas.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianmoronzirfas/block-facebook/issues"
+  },
+  "homepage": "https://github.com/fabianmoronzirfas/block-facebook#readme",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.12.0",
+    "typescript": "^3.2.2"
+  }
+}

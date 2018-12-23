@@ -1,0 +1,3 @@
+[submodule "blocklists"]
+	path = blocklists
+	url = git@github.com:jmdugan/blocklists.git
