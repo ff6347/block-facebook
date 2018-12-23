@@ -7,6 +7,6 @@ git stash
 git checkout master
 git stash pop
 git add block-facebook.lsrules
-git commit "auto-update with travis ${TODAY}"
+git commit -m "auto-update with travis ${TODAY}"
 git push https://${TRAVIS_DEPLOY_TOKEN}@github.com/fabianmoronzirfas/block-facebook.git
 
