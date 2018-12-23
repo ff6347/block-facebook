@@ -1,7 +1,7 @@
 Little Snitch Block Facebook Rule Set
 =====================================
 
-WIP
+[![Build Status](https://travis-ci.org/fabianmoronzirfas/block-facebook.svg?branch=master)](https://travis-ci.org/fabianmoronzirfas/block-facebook)
 
 You will need to use this URL to subscribe
 
@@ -9,5 +9,4 @@ https://raw.githubusercontent.com/fabianmoronzirfas/block-facebook/master/block-
 
 ## Todos
 
-See [the issues](https://github.com/fabianmoronzirfas/block-facebook/issues) and add no ones.  
-
+See these [issues](https://github.com/fabianmoronzirfas/block-facebook/issues) and add new ones.  
