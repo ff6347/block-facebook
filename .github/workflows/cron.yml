@@ -3,6 +3,8 @@
 name: cronjob
 
 on:
+  repository_dispatch:
+    types: [pipedream]
   workflow_dispatch:
   schedule:
     # every sunday morning at 4:00
