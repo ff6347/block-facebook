@@ -4,7 +4,8 @@
   "description": "Little Snitch Block Facebook Rule Set =====================================",
   "main": "index.js",
   "scripts": {
-    "build": "ts-node ./build-scripts"
+    "build": "ts-node ./build-scripts",
+    "test":"npm run build && echo 'write real tests!!!'"
   },
   "repository": {
     "type": "git",
