@@ -25,6 +25,6 @@
   },
   "devDependencies": {
     "@inpyjamas/scripts": "1.0.0",
-    "@types/node": "16.11.43"
+    "@types/node": "16.18.38"
   }
 }
