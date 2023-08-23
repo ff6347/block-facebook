@@ -19,10 +19,10 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: "recursive"
-      - name: Use Node.js 14
+      - name: Use Node.js from .nvmrc
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version-file: ".nvmrc"
       - name: build
         run: npm ci && npm run build
       - name: Add & Commit
