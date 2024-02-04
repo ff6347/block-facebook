@@ -9,3 +9,6 @@ https://ff6347.github.io/block-facebook/block-facebook.lsrules
 ## Todos
 
 See these [issues](https://github.com/fabianmoronzirfas/block-facebook/issues) and add new ones.  
+
+
+<!-- touch -->
