@@ -22,10 +22,10 @@
 		"execa": "9.4.1"
 	},
 	"devDependencies": {
-		"@types/node": "22.15.32",
-		"@typescript-eslint/eslint-plugin": "8.34.1",
-		"@typescript-eslint/parser": "8.34.1",
-		"eslint": "9.29.0",
+		"@types/node": "22.15.34",
+		"@typescript-eslint/eslint-plugin": "8.35.0",
+		"@typescript-eslint/parser": "8.35.0",
+		"eslint": "9.30.0",
 		"tsx": "4.20.3",
 		"typescript": "5.8.3"
 	}
