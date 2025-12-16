@@ -19,7 +19,7 @@
 	},
 	"homepage": "https://github.com/fabianmoronzirfas/block-facebook#readme",
 	"dependencies": {
-		"execa": "9.4.1"
+		"execa": "9.6.1"
 	},
 	"devDependencies": {
 		"@types/node": "22.19.1",
